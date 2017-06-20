@@ -1,0 +1,23 @@
+body{
+	 background-color: #3399FF;
+	 font-family: Verdana;
+}
+div{
+	margin-right: 5px;
+	margin-left:5px;
+	margin-top:5px;
+	margin-bottom:20px;
+}
+button{
+	padding: 8px;
+	background-color: #4CAF50;
+	font-size: 20px;
+	border-style:none;
+}
+#fixedbutton{
+        width: 60px;
+        position: fixed;
+        bottom: 2%;
+        right: 0%;
+		font-size: 25px
+}
